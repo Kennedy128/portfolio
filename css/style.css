@@ -3,3 +3,8 @@ body{
     color: darkred;
     background-color: darkgray;
 }
+.football{
+    color: darkblue;
+    font-size: medium;
+    font-style: italic;
+}
