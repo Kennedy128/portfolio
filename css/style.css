@@ -8,3 +8,20 @@ body{
     font-size: medium;
     font-style: italic;
 }
+.heal{
+    color: darkgoldenrod;
+    background-color: darkgreen;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 5px;
+    border: darkmagenta;
+    font-size: x-small;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+
+
+}
