@@ -114,6 +114,17 @@ a{
 
 
 }
+.hobbies{
+
+    color: black;
+    font-style: oblique;
+    font-family: monospace;
+    font-weight: bolder;
+}
+
+
+
+
 @media screen and (min-width:480px)and (max-width:500px){
     body{
         background-color: olive;
