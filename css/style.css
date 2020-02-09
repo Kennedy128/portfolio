@@ -114,6 +114,18 @@ a{
 
 
 }
+@media screen and (min-width:480px)and (max-width:500px){
+    body{
+        background-color: olive;
+        color: red;
+
+
+    }
+
+
+
+
+}
     
 
 
